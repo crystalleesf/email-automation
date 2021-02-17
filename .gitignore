@@ -1,0 +1,5 @@
+.DS_Store
+venv/
+email_message/
+credentials.json
+email_config.json
